@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI-Powered Study Assistant 🤖📚
 
-# Run and deploy your AI Studio app
+Aplikasi asisten belajar berbasis web yang memanfaatkan teknologi Artificial Intelligence (AI) dan Natural Language Processing (NLP) untuk membantu mahasiswa mengelola materi pembelajaran dan menganalisis informasi.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/501cd79b-1c59-4efe-9177-2fd2217d9eba
+## ✨ Fitur Utama
 
-## Run Locally
+*   **Asisten Belajar AI:** Chatbot interaktif yang siap membantu menjawab pertanyaan seputar materi kuliah.
+*   **Ringkasan Otomatis:** Membantu merangkum artikel atau teks panjang dengan cepat.
+*   **Antarmuka Responsif:** Desain UI/UX yang bersih, modern, dan nyaman digunakan di perangkat apa pun.
 
-**Prerequisites:**  Node.js
+## 🛠️ Teknologi yang Digunakan
 
+*   **Frontend:** HTML, CSS, JavaScript
+*   **Backend:** Python (Flask / FastAPI)
+*   **AI/NLP:** Hubungan Model Bahasa (NLP) / TF-IDF
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Cara Menjalankan Proyek di Komputer Lokal
+
+### 1. Clone Repository
+Buka terminal/Git Bash, lalu klon proyek ini:
+```bash
+git clone [https://github.com/ndrewijaya/AI-Powered-Study-Assistant.git](https://github.com/ndrewijaya/AI-Powered-Study-Assistant.git)
+cd AI-Powered-Study-Assistant
